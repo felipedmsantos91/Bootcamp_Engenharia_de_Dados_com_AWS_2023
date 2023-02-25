@@ -1,2 +1,2 @@
-# Bootcamp_How_Engenharia_de_Dados_com_AWS_2023
- Repositório com as aulas, exercícios e desafios, do bootcamp de engenharia de dados com ênfase em AWS da How Education, em 2023.
+# Bootcamp_Engenharia_de_Dados_com_AWS_2023
+ Repositório com códigos voltados à engenharia de dados com ênfase em AWS feitos em 2023.
