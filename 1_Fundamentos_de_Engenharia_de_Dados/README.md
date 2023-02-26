@@ -1,0 +1,1 @@
+Instale uma máquina virtual python. Ative essa venv e depois faça: pip install -r requirements.txt
